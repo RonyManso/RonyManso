@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RonyManso
+- 👋 Hi, I’m Rony Manso
 - 👀 I’m interested in learning how to code very well and start working on IT field.
 - 🌱 I’m currently learning how to code at Digital House... there I am learning HTML, CSS, JavaScript and everything I need to get started. 
 - 💞️ I’m looking to collaborate on everything that I can help with
